@@ -1,6 +1,7 @@
 # idecors
 Interior Decors and Designs
 This Website site is for Interior Decors and Designing Brand (idecors) where the brand offers premium quality furnitures and designs.
+<p>The site is deplyed in Heroku,</p><h3><a href="https://idecors.herokuapp.com/" target="_blank">Visit Here.</a></h3>
 <h2>Steps to be followed for deploying the site in your PC.</h2>
 <p>
 Download and install the Heroku CLI.<br>
